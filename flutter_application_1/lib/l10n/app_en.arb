@@ -1,0 +1,10 @@
+{
+    "play":"Play",
+    "@play":{
+        "description":"Play movie button label"
+    },
+    "download":"Download"
+
+
+
+}
